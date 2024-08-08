@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="text_title_color">#222222</color>
+    <color name="text_description_color">#666666</color>
+
+    <color name="light_gray">#f2f2f2</color>
+    <color name="pinkesh_red">#ed3237</color>
+    <color name="chikki_text">#e95973</color>
+    <color name="fudge_text">#449df0</color>
+    <color name="dry_fruits_text">#f59b31</color>
+    <color name="namkeens_text">#6fb71d</color>
+</resources>
